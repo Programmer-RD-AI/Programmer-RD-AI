@@ -61,7 +61,7 @@ Markdown           00 hrs 30 min    ░░░░░░░░░░░░░░�
 
 - Python
   - Flask
-  - Sklearn
+  - **Sklearn**
   - Pandas
   - Matplotlib
   - Numpy
@@ -72,6 +72,7 @@ Markdown           00 hrs 30 min    ░░░░░░░░░░░░░░�
   - Mongodb
   - Firebase
   - Sockets
+  - **Tensorflow**
   - OOP
   - Streamlit
   - Speech Recognition
