@@ -29,7 +29,7 @@ I am a Self-Learning Programmer.
   
   - Github - https://github.com/Programmer-RD-AI
   
-  - LinkedIn -  https://www.linkedin.com/in/ranuga-d-94a7671b2/
+  - LinkedIn -  https://www.linkedin.com/in/ranuga-disansa-gamage-94a7671b2/
   
 <hr>
 
