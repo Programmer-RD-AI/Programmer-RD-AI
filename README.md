@@ -27,6 +27,10 @@ I am a Self-Learning Programmer.
   
   - LinkedIn -  https://www.linkedin.com/in/ranuga-disansa-gamage-94a7671b2/
   
+<br>
+
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="165" />
+
 <hr>
 
 ### How I mange my daily time *Programming*
@@ -51,14 +55,6 @@ Markdown           00 hrs 30 min    █░░░░░░░░░░░░░�
 <br>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<br>
-
-<hr>
-
-<br>
-
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <br>
 
