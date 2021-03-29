@@ -12,17 +12,13 @@ I am Intrested in Machine Learning and Data Science and AI and Data engineering.
 
 I am a Self-Learning Programmer.
 
-- 😃 Currently Focused on Learning Python in advanced and learning AI With Python. 😃
+- 😃 Currently Focused on Learning Python in advanced and Learning Deep Learning. 😃
 
-- 🔭 I’m currently working on AI Projects *Python*.
+- 🔭 I’m currently working on AI Projects (Mostly Deep Learning) *Python*.
 
 - 🌱 I’m currently learning AI *Python*.
 
 - 💬 Ask me about *Python*.
-
-- 2021 Goals : Release a pip package, Learn AI in Python and C/C++ IOT and 3D Modeling and Contribute to a open source project,etc...
-
-- Fun Fact : I love making programming time lapses. 😃
 
 - Contact Me :
   - Email - go2ranuga@gmail.com
@@ -42,9 +38,9 @@ I am a Self-Learning Programmer.
 
 Daily: Today Work
 
-Jupyter Notebook   11 hrs 30 mins   ████████████████████████░   92.50 % 
+Jupyter Notebook   11 hrs 30 mins   ████████████████████████░   90.00 % 
 Python             00 hrs 30 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Markdown           00 hrs 30 min    ░░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Markdown           00 hrs 30 min    █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
 <!--END_SECTION:waka-->
@@ -55,49 +51,6 @@ Markdown           00 hrs 30 min    ░░░░░░░░░░░░░░�
 <br>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<br>
-
-## Tech
-
-- Python
-  - Flask
-  - **Sklearn**
-  - Pandas
-  - Matplotlib
-  - Numpy
-  - bs4
-  - Selenium
-  - Flask Restful
-  - Tensorflow
-  - Mongodb
-  - Firebase
-  - Sockets
-  - **Tensorflow**
-  - OOP
-  - Streamlit
-  - Speech Recognition
-  
-<br>
-
-- JavaScript
-  - ReactJS
-  - Firebase
-  - OOP
-  
-<br>
-
-- C
-  - Arduino
-  
-<br>
-
-- Html
-  - Bootstrap
-  
-<br>
-
-- Css
-  - Bootstrap
 
 <br>
 
@@ -106,10 +59,6 @@ Markdown           00 hrs 30 min    ░░░░░░░░░░░░░░�
 <br>
 
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
-<img align="center" src="https://media.tenor.com/images/4706603d96f302497a3174eb49a766e7/tenor.gif" width="500" height="320">
-
-<img align="center" src="https://media0.giphy.com/media/WfwzZpfH8Ejra/giphy.gif" width="500" height="320">
 
 <br>
 
