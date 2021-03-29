@@ -4,6 +4,8 @@
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Programmer-RD-AI&show_icons=true&hide_border=true" alt="Ranuga-Disansa's Github Stats">
 <br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-RD-AI" />
+<br>
 <hr>
 
 I am Ranuga-Disansa Welcome to my github account.
@@ -27,13 +29,11 @@ I am a Self-Learning Programmer.
   
   - LinkedIn -  https://www.linkedin.com/in/ranuga-disansa-gamage-94a7671b2/
   
-<br>
-
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="165" />
-
 <hr>
 
 ### How I mange my daily time *Programming*
+
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="165" />
 
 <br>
 
@@ -49,10 +49,6 @@ Markdown           00 hrs 30 min    █░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 <hr>
-
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-RD-AI" />
-<br>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
