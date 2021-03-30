@@ -2,6 +2,8 @@
 #### RD - Programmer-RD-AI
 <hr>
 <br>
+<img width="500" src="https://metrics.lecoq.io/Programmer-RD-AI" alt="Github Metrics">
+<br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Programmer-RD-AI&show_icons=true&hide_border=true" alt="Ranuga-Disansa's Github Stats">
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-RD-AI" />
