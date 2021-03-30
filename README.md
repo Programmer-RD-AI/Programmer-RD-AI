@@ -23,11 +23,14 @@ I am a Self-Learning Programmer.
 - 💬 Ask me about *Python*.
 
 - Contact Me :
-  - Email - go2ranuga@gmail.com
   
-  - Github - https://github.com/Programmer-RD-AI
+  - (Whatsapp)[https://api.whatsapp.com/send?phone=94766428783]
   
-  - LinkedIn -  https://www.linkedin.com/in/ranuga-disansa-gamage-94a7671b2/
+  - (Email)(go2ranuga@gmail.com)
+  
+  - (Github)[https://github.com/Programmer-RD-AI]
+  
+  - (LinkedIn)[https://www.linkedin.com/in/ranuga-disansa-gamage-94a7671b2/]
   
 <hr>
 
