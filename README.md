@@ -24,7 +24,7 @@ I am a Self-Learning Programmer.
 
 - Contact Me :
   
-  - (Whatsapp)[https://api.whatsapp.com/send?phone=94766428783]
+  - [Whatsapp](https://api.whatsapp.com/send?phone=94766428783)
   
   - (Email)(go2ranuga@gmail.com)
   
