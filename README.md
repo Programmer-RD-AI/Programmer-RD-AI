@@ -10,7 +10,7 @@
 <br>
 <hr>
 
-I am Ranuga-Disansa Welcome to my github account.
+**I am Ranuga-Disansa Welcome to my github account.**
 
 I am Intrested in Machine Learning and Data Science and AI and Data engineering.
 
@@ -26,13 +26,13 @@ I am a Self-Learning Programmer.
 
 - Contact Me :
   
-  - [Whatsapp](https://api.whatsapp.com/send?phone=94766428783)
+  - [**Whatsapp**](https://api.whatsapp.com/send?phone=94766428783)
   
-  - [Email](go2ranuga@gmail.com)
+  - [**Email**](go2ranuga@gmail.com)
   
-  - [Github](https://github.com/Programmer-RD-AI)
+  - [**Github**](https://github.com/Programmer-RD-AI)
   
-  - [LinkedIn](https://www.linkedin.com/in/ranuga-disansa-gamage-94a7671b2/)
+  - [**LinkedIn**](https://www.linkedin.com/in/ranuga-disansa-gamage-94a7671b2/)
   
 <hr>
 
