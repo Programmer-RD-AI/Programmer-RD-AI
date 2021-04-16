@@ -19,25 +19,27 @@
   
   - [**LinkedIn**](https://www.linkedin.com/in/ranuga-disansa-gamage-94a7671b2/)
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 - My Skills 💼 
   - Web Dev (ReactJS, Flask)
   - API Dev (Flask Restful)
   - Deep Learning (TensorFlow)
-  - Machine Learninf (Sklearn)
+  - Machine Learning (Sklearn)
   - Analytics (Matplotlib, Seaborn)
   - Data Loading (Pandas)
   - IOT (Arduino(C),Rasberry Pi(Python))
   - DataBases (Firebase,MongoDB,SQLLite)
   - Sockets Dev (Python(Sockets))
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <details>
 <summary>Info About My Github Account</summary>                                                                                                                                                                                                                                    
 <br /> 
