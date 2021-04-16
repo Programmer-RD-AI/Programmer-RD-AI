@@ -19,8 +19,6 @@
   
   - [**LinkedIn**](https://www.linkedin.com/in/ranuga-disansa-gamage-94a7671b2/)
 
-
-<br>
 <br>
 <br>
 <br>
