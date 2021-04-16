@@ -9,7 +9,7 @@
 <br>
 <br>
 
-- Contact Me 💬 :
+- Contact Me 💬
   
   - [**Whatsapp**](https://api.whatsapp.com/send?phone=94766428783)
   
@@ -19,6 +19,16 @@
   
   - [**LinkedIn**](https://www.linkedin.com/in/ranuga-disansa-gamage-94a7671b2/)
 
+- My Skills 💼 
+  - Web Dev (ReactJS, Flask)
+  - API Dev (Flask Restful)
+  - Deep Learning (TensorFlow)
+  - Machine Learninf (Sklearn)
+  - Analytics (Matplotlib, Seaborn)
+  - Data Loading (Pandas)
+  - IOT (Arduino(C),Rasberry Pi(Python))
+  - DataBases (Firebase,MongoDB,SQLLite)
+  - Sockets Dev (Python(Sockets))
 <br>
 <br>
 <br>
