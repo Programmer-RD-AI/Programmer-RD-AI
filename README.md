@@ -21,6 +21,11 @@ I am mostly focused on doing AI Projects with Python and Learning AI with Python
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <details>
 <summary>Info About My Github Account</summary>                                                                                                                                                                                                                                                             
 <br /> 
