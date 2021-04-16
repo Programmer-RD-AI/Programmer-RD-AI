@@ -37,15 +37,17 @@
 
 ![](https://komarev.com/ghpvc/?username=Programmer-RD-AI&color=gray)
  
-<br>
+<hr>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Programmer-RD-AI&show_icons=true&hide_border=true" alt="Ranuga-Disansa's Github Stats">
 
-<br>
+<hr>
 
 <img width="500" src="https://metrics.lecoq.io/Programmer-RD-AI" alt="Github Metrics">
 
-<br>
+<hr>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-RD-AI" />
+
 <br>
 <hr>
