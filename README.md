@@ -8,7 +8,8 @@
 😃 I am mostly focused on doing AI Projects with Python and Learning AI with Python. 
 <br>
 <br>
-- Contact Me 💬 :
+
+Contact Me 💬 :
   
   - [**Whatsapp**](https://api.whatsapp.com/send?phone=94766428783)
   
