@@ -15,6 +15,12 @@ I am mostly focused on doing AI Projects with Python and Learning AI with Python
   - [**Github**](https://github.com/Programmer-RD-AI)
   
   - [**LinkedIn**](https://www.linkedin.com/in/ranuga-disansa-gamage-94a7671b2/)
+
+<br>
+<br>
+<br>
+<br>
+<br>
 <details>
 <summary>Info About My Github Account</summary>                                                                                                                                                                                                                                                             
 <br /> 
