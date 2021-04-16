@@ -39,6 +39,8 @@
   - DataBases (Firebase,MongoDB,SQLLite)
   - Sockets Dev (Python(Sockets))
 
+<hr>
+
 <details>
 <summary>Info About My Github Account</summary>                                                                                                                                                                                                                                    
 <br /> 
