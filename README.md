@@ -18,17 +18,18 @@
   - [**Github**](https://github.com/Programmer-RD-AI)
   
   - [**LinkedIn**](https://www.linkedin.com/in/ranuga-disansa-gamage-94a7671b2/)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<hr>
 
 - My Skills 💼 
   - Web Dev (ReactJS, Flask)
