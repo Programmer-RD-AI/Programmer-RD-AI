@@ -27,7 +27,6 @@
 <br>
 <br>
 <br>
-<br>
 
 - My Skills 💼 
   - Web Dev (ReactJS, Flask)
