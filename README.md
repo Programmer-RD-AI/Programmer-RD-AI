@@ -28,13 +28,20 @@ I am a Self-Learning Programmer.
   - [**LinkedIn**](https://www.linkedin.com/in/ranuga-disansa-gamage-94a7671b2/)
   
 <hr>
-<br>
+<details>
+<summary>Stats</summary>                                                                                                                                                                                                                                                             
+<br /> 
+<br /> 
+  
+Profile Views Since January 4th
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Programmer-RD-AI&show_icons=true&hide_border=true" alt="Ranuga-Disansa's Github Stats">
 <br>
 <img width="500" src="https://metrics.lecoq.io/Programmer-RD-AI" alt="Github Metrics">
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-RD-AI" />
-<br>
+<br />
+<br />
+<br />
 <hr>
 <img align="center" src="https://media.tenor.com/images/4706603d96f302497a3174eb49a766e7/tenor.gif" width="250" height="165">
 <hr>
