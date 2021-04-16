@@ -1,6 +1,5 @@
 ### Hi there 👋 I am Ranuga-D. 😃
 #### RD - Programmer-RD-AI
-![](https://komarev.com/ghpvc/?username=Programmer-RD-AI&color=gray)
 <hr>
 
 **I am Ranuga-Disansa Welcome to my github account.**
@@ -29,11 +28,12 @@ I am a Self-Learning Programmer.
   
 <hr>
 <details>
-<summary>Stats</summary>                                                                                                                                                                                                                                                             
+<summary>Info About My Github Account</summary>                                                                                                                                                                                                                                                             
 <br /> 
 <br /> 
-  
-Profile Views Since January 4th
+**Account View from April 16 2021**
+<br>
+![](https://komarev.com/ghpvc/?username=Programmer-RD-AI&color=gray)
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Programmer-RD-AI&show_icons=true&hide_border=true" alt="Ranuga-Disansa's Github Stats">
 <br>
 <img width="500" src="https://metrics.lecoq.io/Programmer-RD-AI" alt="Github Metrics">
