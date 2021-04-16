@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Ranuga-D. 😃
 #### RD - Programmer-RD-AI
 <hr>
-<img align='left' src='https://i.pinimg.com/originals/71/27/f1/7127f106f0aaf459aa75939f517b3521.png' height=500 width=500 style="background-color: white !important;">
+<img align='left' src='https://www.brandcrowd.com/gallery/brands/pictures/picture14785475641193.jpg' height=500 width=500 style="background-color: white !important;">
 😃 I am Ranuga Disansa and I am 13 years old and I love Programming and Problem solving in general.
 😃 I am a Self-Learning Programmer.
 😃 I am Currently Learning AI in general with Python.
