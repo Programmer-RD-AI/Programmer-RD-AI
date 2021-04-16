@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Ranuga-D. 😃
 #### RD - Programmer-RD-AI
-![](https://komarev.com/ghpvc/?username=brandonsaldan&color=6A8AFF)
+![](https://komarev.com/ghpvc/?username=Programmer-RD-AI&color=Gary)
 <hr>
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Programmer-RD-AI&show_icons=true&hide_border=true" alt="Ranuga-Disansa's Github Stats">
