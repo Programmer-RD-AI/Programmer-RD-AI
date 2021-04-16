@@ -49,6 +49,3 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-RD-AI" />
 <br>
 <hr>
-
-<img align="center" src="https://media.tenor.com/images/4706603d96f302497a3174eb49a766e7/tenor.gif" width="250" height="165">
-<hr>
