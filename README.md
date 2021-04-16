@@ -29,8 +29,9 @@
 <br>
 <br>
 <details>
-<summary>Info About My Github Account</summary>                                                                                                                   <hr>                                                                                                                                    
+<summary>Info About My Github Account</summary>                                                                                                                                                                                                                                    
 <br /> 
+<hr>    
 <br />
   
 **Account Viewed from April 16 2021**
