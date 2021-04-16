@@ -29,12 +29,14 @@
 <br>
 <br>
 <details>
-<summary>Info About My Github Account</summary>                                                                                                                                                                                                                                                             
+<summary>Info About My Github Account</summary>                                                                                                                   <hr>                                                                                                                                    
 <br /> 
 <br />
-<hr>
+  
 **Account Viewed from April 16 2021**
+
 <br>
+
 ![](https://komarev.com/ghpvc/?username=Programmer-RD-AI&color=gray)
  
 <br>
