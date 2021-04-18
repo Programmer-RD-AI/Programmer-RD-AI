@@ -36,10 +36,8 @@ I am mostly focused on doing AI Projects with Python and Learning AI with Python
   - Deep Learning (TensorFlow)
   - Machine Learning (Sklearn)
   - Analytics (Matplotlib, Seaborn)
-  - Data Loading (Pandas)
   - IOT (Arduino(C),Rasberry Pi(Python))
   - DataBases (Firebase,MongoDB,SQLLite)
-  - Sockets Dev (Python(Sockets))
 
 <hr>
 
