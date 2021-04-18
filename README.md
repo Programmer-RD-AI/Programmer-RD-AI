@@ -1,4 +1,4 @@
-### Hi there 👋 I am Ranuga-D. 😃
+### Hi there 👋 I am Ranuga-D 😃
 #### RD - Programmer-RD-AI
 <hr>
 <img align='left' src='https://st4.depositphotos.com/28687978/41102/v/450/depositphotos_411026674-stock-illustration-logo-design-white-letter-letter.jpg' height=500 width=500 style="background-color: white !important;">
