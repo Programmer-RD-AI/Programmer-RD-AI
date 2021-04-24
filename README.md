@@ -1,5 +1,4 @@
 ### Hi there 👋 I am Ranuga-D 😃
-
 #### RD - Programmer-RD-AI
 <hr>
 
