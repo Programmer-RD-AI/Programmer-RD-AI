@@ -41,7 +41,7 @@ I am mostly focused on doing AI Projects with Python and Learning AI with Python
   - Deep Learning (TensorFlow,PyTorch(Learning)).
   - Machine Learning (Sklearn).
   - Analytics (Matplotlib, Seaborn).
-  - IOT (Arduino(C),Rasberry Pi(Python))
+  - IOT (Arduino(C),Rasberry Pi(Python)).
   - DataBases (Firebase,MongoDB,SQLLite)
 
 <hr>
