@@ -42,7 +42,7 @@ I am mostly focused on doing AI Projects with Python and Learning AI with Python
   - Machine Learning (Sklearn).
   - Analytics (Matplotlib, Seaborn).
   - IOT (Arduino(C),Rasberry Pi(Python)).
-  - DataBases (Firebase,MongoDB,SQLLite)
+  - DataBases (Firebase,MongoDB,SQLLite).
 
 <hr>
 
