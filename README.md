@@ -37,7 +37,7 @@ I am mostly focused on doing AI Projects with Python and Learning AI with Python
 
 - My Skills 💼 
   - Web Dev (ReactJS, Flask).
-  - API Dev (Flask Restful)
+  - API Dev (Flask Restful).
   - Deep Learning (TensorFlow,PyTorch(Currently Learning))
   - Machine Learning (Sklearn)
   - Analytics (Matplotlib, Seaborn)
