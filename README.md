@@ -36,7 +36,7 @@ I am mostly focused on doing AI Projects with Python and Learning AI with Python
   - if you have any other questions send me a email to g02ranuga@gmail.com
 
 - My Skills 💼 
-  - Web Dev (ReactJS, Flask)
+  - Web Dev (ReactJS, Flask).
   - API Dev (Flask Restful)
   - Deep Learning (TensorFlow,PyTorch(Currently Learning))
   - Machine Learning (Sklearn)
