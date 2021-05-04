@@ -32,7 +32,7 @@ I am mostly focused on doing AI Projects with Python and Learning AI with Python
 
 - About Me ❓
   - Favorite Programming Language = Python
-  - When did I start programming April 20th 2020
+  - When did I start programming April 20th 2020.
   - if you have any other questions send me a email to g02ranuga@gmail.com
 
 - My Skills 💼 
