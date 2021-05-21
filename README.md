@@ -38,15 +38,10 @@ I am mostly focused on doing AI Projects with Python and Learning AI with Python
 <hr>    
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Programmer-RD-AI&show_icons=true&hide_border=true" alt="Ranuga-Disansa's Github Stats">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Programmer-RD-AI&show_icons=true&hide_border=true" alt="Ranuga-Disansa's Github Stats">
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-RD-AI" />
 
 <hr>
 
 <img width="500" src="https://metrics.lecoq.io/Programmer-RD-AI" alt="Github Metrics">
-
-<hr>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-RD-AI" />
-
-<br>
-<hr>
