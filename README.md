@@ -25,13 +25,6 @@ I am mostly focused on doing AI Projects with Python and Learning AI with Python
 
 <hr>
 
-- About Me ❓
-  - Favorite Programming Language = Python.
-  - When did I start programming April 20th 2020.
-  - if you have any other questions send me a email to g02ranuga@gmail.com
-
-<hr>
-
 - My Skills 💼 
   - Web Dev (ReactJS, Flask).
   - API Dev (Flask Restful).
@@ -44,8 +37,6 @@ I am mostly focused on doing AI Projects with Python and Learning AI with Python
 <br /> 
 <hr>    
 <br />
-  
-
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Programmer-RD-AI&show_icons=true&hide_border=true" alt="Ranuga-Disansa's Github Stats">
 
