@@ -1,9 +1,11 @@
 ### Hi there 👋 I am Ranuga-D 😃
 #### RD - Programmer-RD-AI
-😃 I am Ranuga Disansa and I am 13 years old and I love Programming and AI in general.
+I am Ranuga Disansa and I am 13 years old and I love Programming and AI in general.
 I am a Self-Learning Programmer.
 I am Currently Learning AI in general with Python.
 I am mostly focused on doing AI Projects with Python and Learning AI with Python. 😃
+
+<hr>
 
 - Contact Me 💬
   
@@ -15,10 +17,14 @@ I am mostly focused on doing AI Projects with Python and Learning AI with Python
   
   - [**LinkedIn**](https://www.linkedin.com/in/ranuga-disansa-gamage-94a7671b2/)
 
+<hr>
+
 - About Me ❓
   - Favorite Programming Language = Python.
   - When did I start programming April 20th 2020.
   - if you have any other questions send me a email to g02ranuga@gmail.com
+
+<hr>
 
 - My Skills 💼 
   - Web Dev (ReactJS, Flask).
