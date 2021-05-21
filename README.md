@@ -6,6 +6,7 @@
 I am Ranuga Disansa and I am 13 years old and I love Programming and AI in general.
 I am a Self-Learning Programmer.
 I am Currently Learning AI in general with Python.
+I mostly like Self-Driving Cars kind of stuff in AI mostly but I like other stuff also.
 I am mostly focused on doing AI Projects with Python and Learning AI with Python. 😃
 
 <hr>
