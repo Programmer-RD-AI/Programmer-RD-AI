@@ -43,5 +43,9 @@ I am mostly focused on doing AI Projects with Python and Learning AI with Python
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-RD-AI" />
 
 <br>
+<br>
+<br>
+<br>
+<br>
 
 <img width="500" src="https://metrics.lecoq.io/Programmer-RD-AI" alt="Github Metrics">
