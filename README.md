@@ -4,10 +4,14 @@
 <hr>
 
 I am Ranuga Disansa and I am 13 years old and I love Programming and AI in general.
+<br>
 I am a Self-Learning Programmer.
-I am Currently Learning AI in general with Python.
+<br>
+I am Currently Learning Deep Learning with Python.
+<br>
 I mostly like Self-Driving Cars kind of stuff in AI mostly but I like other stuff also.
-I am mostly focused on doing AI Projects with Python and Learning AI with Python. 😃
+<br>
+These days I have been doing alot of Projects for Competions so I cant share them publicly.
 
 <hr>
 
@@ -21,7 +25,7 @@ I am mostly focused on doing AI Projects with Python and Learning AI with Python
   
   - [**Whatsapp**](https://api.whatsapp.com/send?phone=94766428783)
   
-  - [**Email 📥**](go2ranuga@gmail.com)
+  - [**Email**](go2ranuga@gmail.com)
   
   - [**Github**](https://github.com/Programmer-RD-AI)
   
@@ -32,7 +36,7 @@ I am mostly focused on doing AI Projects with Python and Learning AI with Python
 - My Skills 💼 
   - Web Dev (ReactJS, Flask).
   - API Dev (Flask Restful).
-  - Deep Learning (TensorFlow,PyTorch,Detectron2)).
+  - Deep Learning (TensorFlow,PyTorch,Detectron2).
   - Machine Learning (Sklearn).
   - Analytics (Matplotlib, Seaborn).
   - IOT (Arduino(C),Rasberry Pi(Python)).
