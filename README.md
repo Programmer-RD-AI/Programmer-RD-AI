@@ -47,7 +47,7 @@ These days I have been doing alot of Projects for Competions so I cant share the
 <img width="500" src="https://metrics.lecoq.io/Programmer-RD-AI" alt="Github Metrics">                                                                                                                                                       
 <hr>    
 
-<a href="https://github.com/SmurfsCC"><img alt="Ranuga's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Programmer-RD-AI&bg_color=0D1117&color=eca15b&line=eca15b" /></a>
+<img alt="Ranuga's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Programmer-RD-AI&bg_color=0D1117&color=eca15b&line=eca15b" />
 
 <hr>
 
