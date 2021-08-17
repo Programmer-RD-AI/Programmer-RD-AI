@@ -3,7 +3,7 @@
 
 <hr>
 
-I am Ranuga Disansa and I am 13 years old and I love Programming and AI in general.
+I am Ranuga Disansa and I love Programming and AI in general.
 <br>
 I am a Self-Learning Programmer.
 <br>
@@ -23,13 +23,19 @@ These days I have been doing alot of Projects for Competions so I cant share the
 
 - Contact Me 💬
   
-  - [**Whatsapp**](https://api.whatsapp.com/send?phone=94766428783)
-  
   - [**Email**](go2ranuga@gmail.com)
   
   - [**Github**](https://github.com/Programmer-RD-AI)
   
   - [**LinkedIn**](https://www.linkedin.com/in/ranuga-disansa-gamage-94a7671b2/)
+
+  - [**Kaggle**](https://www.kaggle.com/ranugadisansagamage)
+
+  - [**PyTorch Community**](https://discuss.pytorch.org/u/programmer-rd-ai/summary)
+
+  - **Discord** - Programmer-RD-AI#2022
+
+  - [**GitMemory**](https://githubmemory.com/@Programmer-RD-AI)
 
 <hr>
 
