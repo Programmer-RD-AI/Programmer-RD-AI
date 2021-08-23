@@ -11,7 +11,8 @@ I am Currently Learning Deep Learning with Python.
 <br>
 I mostly like Self-Driving Cars kind of stuff in AI mostly but I like other stuff also.
 <br>
-These days I have been doing alot of Projects for Competions so I cant share them publicly.
+7 Small Projects Weekly
+2 Competion Projects Weekly (Kaggle)
 
 <hr>
 
