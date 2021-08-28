@@ -11,6 +11,8 @@ I am Currently Learning Deep Learning with Python.
 <br>
 I mostly like Self-Driving Cars kind of stuff in AI mostly but I like other stuff also.
 <br>
+When something is important enough, you do it even if the odds are not in your favor.
+<br>
 7 Small Projects Weekly
 
 <hr>
