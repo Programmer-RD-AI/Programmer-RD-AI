@@ -11,7 +11,9 @@ I am Currently Learning Deep Learning with Python.
 <br>
 I mostly like Self-Driving Cars kind of stuff in AI mostly but I like other stuff also.
 <br>
-If you give yourself 30 days to clean your home, it will take you 30 days. But if you give yourself 3 hours, it will take 3 hours. The same applies to your goals, ambitions, and potential.
+"If you give yourself 30 days to clean your home, it will take you 30 days. But if you give yourself 3 hours, it will take 3 hours. The same applies to your goals, ambitions, and potential."
+- Elon Musk
+<br>
 <br>
 7 Small Projects Weekly
 
