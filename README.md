@@ -1,5 +1,6 @@
 ### Hi there 👋 I am Ranuga-D 😃
 #### RD - Programmer-RD-AI
+![](https://komarev.com/ghpvc/?username=Programmer-RD-AI&color=gray)
 
 <hr>
 
@@ -7,20 +8,12 @@ I am Ranuga Disansa and I love Programming and AI in general.
 <br>
 I am a Self-Learning Programmer.
 <br>
-I am Currently Learning Deep Learning with Python.
+I am Currently Learning Deep Learning with Python and PyTorch.
 <br>
 I mostly like Self-Driving Cars kind of stuff in AI mostly but I like other stuff also.
 <br>
 "If you give yourself 30 days to clean your home, it will take you 30 days. But if you give yourself 3 hours, it will take 3 hours. The same applies to your goals, ambitions, and potential."
 - Elon Musk
-<br>
-7 Small Projects Weekly
-
-<hr>
-
-**Account Viewed from April 16 2021**
-
-![](https://komarev.com/ghpvc/?username=Programmer-RD-AI&color=gray)
 
 <hr>
 
