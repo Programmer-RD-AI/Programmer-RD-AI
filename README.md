@@ -2,6 +2,7 @@
 #### RD - Programmer-RD-AI
 
 ![](https://komarev.com/ghpvc/?username=Programmer-RD-AI&color=gray)
+
 I am Ranuga Disansa and I love Programming and AI in general.
 <br>
 I am a Self-Learning Programmer.
