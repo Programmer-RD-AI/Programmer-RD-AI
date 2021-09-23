@@ -13,7 +13,6 @@ I mostly like Self-Driving Cars kind of stuff in AI mostly but I like other stuf
 <br>
 "If you give yourself 30 days to clean your home, it will take you 30 days. But if you give yourself 3 hours, it will take 3 hours. The same applies to your goals, ambitions, and potential."
 - Elon Musk
-
 <hr>
 
 - Contact Me 💬
