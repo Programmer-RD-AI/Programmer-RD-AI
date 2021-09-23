@@ -45,7 +45,6 @@ I mostly like Self-Driving Cars kind of stuff in AI mostly but I like other stuf
   - DataBases (Firebase,MongoDB,SQLLite,SQL).
 
 <hr>
-
 <img alt="Ranuga's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Programmer-RD-AI&bg_color=0D1117&color=eca15b&line=eca15b" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-RD-AI" />
