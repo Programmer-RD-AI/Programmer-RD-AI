@@ -48,7 +48,6 @@ I mostly like Self-Driving Cars kind of stuff in AI mostly but I like other stuf
 <img alt="Ranuga's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Programmer-RD-AI&bg_color=0D1117&color=eca15b&line=eca15b" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-RD-AI" />
 <img src="https://github-readme-stats.vercel.app/api?username=Programmer-RD-AI&show_icons=true&hide_border=false" alt="Ranuga-Disansa's Github Stats">
-
 <img width="500" src="https://metrics.lecoq.io/Programmer-RD-AI" alt="Github Metrics">         
 
 <img title="Ranuga stats" alt="Ranuga" src="https://github-readme-streak-stats.herokuapp.com/?user=Programmer-RD-AI&theme=dark"/>
