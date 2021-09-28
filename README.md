@@ -1,6 +1,4 @@
-### Hi there 👋 I am Ranuga-D 😃
-
-#### RD - Programmer-RD-AI
+### Hi there 👋 I am Ranuga 😃
 
 ![](https://komarev.com/ghpvc/?username=Programmer-RD-AI&color=gray)
 
