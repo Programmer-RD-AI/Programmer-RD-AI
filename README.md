@@ -2,6 +2,8 @@
 
 I am Ranuga Disansa and I love Programming and AI in general.
 <br>
+Tech Fanboy
+<br>
 Self Learning Programmer, Loves - AI. Started learning when I was 10 still learning... :)
 <br>
 I am Currently Learning Deep Learning with Python and PyTorch.
