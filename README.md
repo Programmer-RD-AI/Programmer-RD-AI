@@ -1,4 +1,4 @@
-### Hi there 👋 I am Ranuga-Disansa 😃 ![](https://komarev.com/ghpvc/?username=Programmer-RD-AI&color=gray)
+### Hi there 👋 I am Ranuga-Disansa 😃 - ![](https://komarev.com/ghpvc/?username=Programmer-RD-AI&color=gray)
 Tech,Tesla,Apple Fanboy
 
 I am Ranuga Disansa and I love Programming and AI in general.
