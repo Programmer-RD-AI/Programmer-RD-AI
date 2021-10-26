@@ -2,9 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Programmer-RD-AI&color=gray)
 
-Tech,Tesla,Apple Fanboy
-
-I am Ranuga Disansa and I love Programming and AI in general.
+I am Ranuga Disansa and I love Programming and AI in general | Tech,Tesla,Apple Fanboy.
 <br>
 Self Learning Programmer, Loves - AI. Started learning when I was 10 still learning... :)
 <br>
