@@ -1,7 +1,8 @@
 ### Hi there 👋 I am Ranuga Disansa 😃
 
 ![](https://komarev.com/ghpvc/?username=Programmer-RD-AI&color=gray)
-![Lines of code](https://img.shields.io/tokei/lines/github/Programmer-RD-AI/Programmer-RD-AI?label=lines-of-code) # For this Repo (Programmer-RD-AI/Programmer-RD-AI)
+![Lines of code](https://img.shields.io/tokei/lines/github/Programmer-RD-AI/Programmer-RD-AI?label=lines-of-code) 
+# For this Repo (Programmer-RD-AI/Programmer-RD-AI)
 
 I am Ranuga Disansa and I love Programming and AI in general | Tech,Tesla,Apple Fanboy.
 <br>
