@@ -26,8 +26,6 @@ I mostly like Self-Driving Cars kind of stuff in AI mostly but I like other stuf
 
   - [**PyTorch Community**](https://discuss.pytorch.org/u/programmer-rd-ai/summary)
 
-  - **Discord** - Programmer-RD-AI#2022
-
   - [**GitMemory**](https://githubmemory.com/@Programmer-RD-AI)
   
   - [**Medium**](https://medium.com/@Programmer-RD-AI)
