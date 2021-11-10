@@ -1,4 +1,5 @@
-## Hi there 👋 I am Ranuga Disansa 😃
+## Hi there 👋
+## I am Ranuga Disansa 😃
 
 ![](https://komarev.com/ghpvc/?username=Programmer-RD-AI&color=gray)
 
