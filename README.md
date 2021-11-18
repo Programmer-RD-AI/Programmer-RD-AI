@@ -39,7 +39,7 @@ I mostly like Self-Driving Cars kind of stuff in AI mostly but I like other stuf
   - Deep Learning (TensorFlow,PyTorch,Detectron2).
   - Machine Learning (Sklearn).
   - Analytics (Matplotlib, Seaborn).
-  - IOT (Arduino(C),Rasberry Pi(Python)).
+  - IOT (Arduino(C),Rasberry Pi(Python),Fusion 360).
   - DataBases (Firebase,MongoDB,SQLLite,SQL).
 
 <hr>
