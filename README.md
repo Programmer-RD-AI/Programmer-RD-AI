@@ -33,7 +33,7 @@ I mostly like Self-Driving Cars kind of stuff in AI mostly but I like other stuf
 <hr>
 
 - My Skills 💼 
-  - Web Dev (ReactJS, Flask).
+  - Web Dev (ReactJS, Flask,Bootstrap,Material Ui).
   - Mobile Dev (React Native).
   - API Dev (Flask Restful).
   - Deep Learning (TensorFlow,PyTorch,Detectron2).
