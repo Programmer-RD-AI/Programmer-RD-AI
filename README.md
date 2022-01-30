@@ -10,8 +10,8 @@ I am Currently Learning IOT with raspberry pi and arduino and AI with Deep Learn
 <br>
 I mostly like Self-Driving Cars kind of stuff in AI mostly but I like other stuff also.
 <br>
-"If you give yourself 30 days to clean your home, it will take you 30 days. But if you give yourself 3 hours, it will take 3 hours. The same applies to your goals, ambitions, and potential."
-- Elon Musk
+"Stay Hungry Stay foolish"
+- Steve Jobs
 <hr>
 
 - Contact Me 💬
