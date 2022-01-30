@@ -10,7 +10,7 @@ I am Currently Learning IOT with raspberry pi and arduino and AI with Deep Learn
 <br>
 I mostly like Self-Driving Cars kind of stuff in AI mostly but I like other stuff also.
 <br>
-"Stay Hungry Stay foolish"
+"Stay Hungry, Stay foolish"
 - Steve Jobs
 <hr>
 
