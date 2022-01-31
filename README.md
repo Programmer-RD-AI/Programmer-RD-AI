@@ -6,7 +6,7 @@ I am Ranuga Disansa and I love Programming and AI in general | Tech,Tesla,Apple 
 <br>
 Self Learning Programmer, Loves - AI. Started learning when I was 10 still learning... :)
 <br>
-I am Currently Learning IOT with raspberry pi and arduino and AI with Deep Learning
+I am Currently Learning Mathematics in Artificial Intelligence and Learning Reinforcement Learning
 <br>
 I mostly like Self-Driving Cars kind of stuff in AI mostly but I like other stuff also.
 <br>
