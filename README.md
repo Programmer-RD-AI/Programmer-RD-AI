@@ -10,8 +10,6 @@ I am Currently Learning Mathematics in Artificial Intelligence and Learning Rein
 <br>
 I mostly like Self-Driving Cars kind of stuff in AI mostly but I like other stuff also.
 <br>
-"Stay Hungry, Stay foolish"
-- Steve Jobs
 <hr>
 
 - Contact Me 💬
