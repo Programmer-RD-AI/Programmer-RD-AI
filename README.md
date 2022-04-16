@@ -19,8 +19,6 @@ I mostly like Self-Driving Cars kind of stuff in AI mostly but I like other stuf
   - [**Email**](go2ranuga@gmail.com)
   
   - [**Github**](https://github.com/Programmer-RD-AI)
-  
-  - [**LinkedIn**](https://www.linkedin.com/in/ranuga-disansa-gamage-94a7671b2/)
 
   - [**Kaggle**](https://www.kaggle.com/ranugadisansagamage)
 
