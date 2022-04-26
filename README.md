@@ -31,15 +31,17 @@ I mostly like Self-Driving Cars kind of stuff in AI mostly but I like other stuf
 <hr>
 
 - My Skills 💼 
-  - Web Dev (ReactJS, Flask,Bootstrap,Material Ui).
+  - Web Dev (ReactJS, Flask, Bootstrap, Material Ui).
   - Mobile Dev (React Native).
   - API Dev (Flask Restful).
-  - Deep Learning (TensorFlow,PyTorch,Detectron2).
+  - Deep Learning (TensorFlow,PyTorch,Detectron2,TensorFlow Lite, Pytorch Lightning).
   - Machine Learning (Sklearn).
   - Analytics (Matplotlib, Seaborn).
   - IOT (Arduino(C),Rasberry Pi(Python),Fusion 360).
   - DataBases (Firebase,MongoDB,SQLLite,SQL).
-  - Unit Tests
+  - Unit Tests (unitests)
+  - Cloud Providers (Azure)
+  - Programming Lanauges (Python, JavaScript, C/C++, Html, Css)
 
 <hr>
 <img alt="Ranuga's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Programmer-RD-AI&bg_color=0D1117&color=eca15b&line=eca15b" />
