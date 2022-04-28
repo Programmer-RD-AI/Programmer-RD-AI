@@ -6,7 +6,7 @@ I am Ranuga Disansa and I love Programming and AI in general | Tech,Tesla,Apple 
 <br>
 Self Learning Programmer, Loves - AI. Started learning when I was 10 still learning... :)
 <br>
-81 WPM Speed
+86 WPM Speed
 <br>
 I am Currently Learning Mathematics in Artificial Intelligence and Learning Reinforcement Learning
 <br>
