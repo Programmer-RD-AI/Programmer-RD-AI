@@ -42,6 +42,7 @@ I mostly like Self-Driving Cars kind of stuff in AI mostly but I like other stuf
   - Unit Tests (unitests)
   - Cloud Providers (Azure)
   - Programming Lanauges (Python, JavaScript, C/C++, Html, Css)
+  - Authentication (Auth0)
 
 <hr>
 <img alt="Ranuga's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Programmer-RD-AI&bg_color=0D1117&color=eca15b&line=eca15b" />
