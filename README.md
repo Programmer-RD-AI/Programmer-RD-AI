@@ -12,6 +12,7 @@ I am Currently Learning Mathematics in Artificial Intelligence and Learning Rein
 <br>
 I mostly like Self-Driving Cars kind of stuff in AI mostly but I like other stuff also.
 <br>
+Kaggle DataSet Expert
 <hr>
 
 - Contact Me 💬
@@ -19,8 +20,6 @@ I mostly like Self-Driving Cars kind of stuff in AI mostly but I like other stuf
   - [**Email**](go2ranuga@gmail.com)
   
   - [**Github**](https://github.com/Programmer-RD-AI)
-
-  - [**Kaggle**](https://www.kaggle.com/ranugadisansagamage)
 
   - [**PyTorch Community**](https://discuss.pytorch.org/u/programmer-rd-ai/summary)
 
