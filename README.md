@@ -19,6 +19,8 @@ Kaggle DataSet Expert
   
   - [**Email**](go2ranuga@gmail.com)
   
+  - [**LinkedIn**](https://www.linkedin.com/in/ranuga-disansa-94a7671b2/)
+  
   - [**Github**](https://github.com/Programmer-RD-AI)
 
   - [**PyTorch Community**](https://discuss.pytorch.org/u/programmer-rd-ai/summary)
