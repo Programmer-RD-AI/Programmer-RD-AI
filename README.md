@@ -34,7 +34,7 @@ Kaggle DataSet Expert
 - My Skills 💼 
   - Web Dev (ReactJS, Flask, Bootstrap, Material Ui).
   - API Dev (Flask Restful).
-  - Deep Learning (TensorFlow, PyTorch, Detectron2, TensorFlow Lite, Pytorch Lightning).
+  - Deep Learning (TensorFlow, PyTorch, Detectron2, TensorFlow Lite, Pytorch Lightning, HuggingFace).
   - Machine Learning (Sklearn).
   - Analytics (Matplotlib, Seaborn).
   - IOT (Arduino(C), Rasberry Pi(Python), Fusion 360).
