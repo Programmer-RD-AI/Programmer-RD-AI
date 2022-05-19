@@ -11,8 +11,6 @@ Self Learning Programmer, Loves - AI. Started learning when I was 10 still learn
 I am Currently Learning Mathematics in Artificial Intelligence and Learning Reinforcement Learning
 <br>
 I mostly like Self-Driving Cars kind of stuff in AI mostly but I like other stuff also.
-<br>
-Kaggle DataSet Expert
 <hr>
 
 - Contact Me 💬
