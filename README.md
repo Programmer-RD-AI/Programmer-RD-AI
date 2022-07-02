@@ -14,7 +14,6 @@ I mostly like Self-Driving Cars kind of stuff in AI mostly but I like other stuf
 - Contact Me 💬
   
   - [**Email**](go2ranuga@gmail.com)
-  - [**Linked In**](https://www.linkedin.com/in/ranuga-disansa-94a7671b2/)
   - [**Github**](https://github.com/Programmer-RD-AI)
   - [**PyTorch Community**](https://discuss.pytorch.org/u/programmer-rd-ai/summary)
   - [**GitMemory**](https://githubmemory.com/@Programmer-RD-AI)
