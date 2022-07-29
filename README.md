@@ -32,7 +32,7 @@ I mostly like Self-Driving Cars kind of stuff in AI mostly but I like other stuf
   - Unit Tests (unitests)
   - Cloud Providers (Azure)
   - Data Collection (BeautifulSoup)
-  - Programming Lanauges (Python, JavaScript, C/C++, Html, Css)
+  - Programming Lanauges (Python, JavaScript, C/C++, Html, Css, C# (.NET))
   
 
 <hr>
