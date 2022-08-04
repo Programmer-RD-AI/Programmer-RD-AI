@@ -33,7 +33,7 @@ I mostly like Self-Driving Cars kind of stuff in AI mostly but I like other stuf
   - Cloud Providers (Azure)
   - Data Collection (BeautifulSoup)
   - 3D Modelling (Fusion 360, Blender)
-  - Programming Lanauges (Python, JavaScript, C/C++, Html, Css, C#)
+  - Programming Lanauges (Python, JavaScript, C/C++, Html, Css, C#, SQL)
   
 
 <hr>
