@@ -34,6 +34,7 @@ I mostly like Self-Driving Cars kind of stuff in AI mostly but I like other stuf
   - Data Collection (BeautifulSoup)
   - 3D Modelling (Fusion 360, Blender)
   - Programming Lanauges (Python, JavaScript, C/C++, Html, Css, C#, SQL)
+  - Version Control (Git)
   
 
 <hr>
