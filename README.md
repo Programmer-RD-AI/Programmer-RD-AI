@@ -22,18 +22,18 @@ I mostly like Self-Driving Cars kind of stuff in AI mostly but I like other stuf
 <hr>
 
 - My Skills 💼 
-  - Web Dev (ReactJS, Flask, Bootstrap, Material Ui).
+  - Web Dev (Flask, Bootstrap).
   - API Dev (Flask Restful).
-  - Deep Learning (TensorFlow, PyTorch, Detectron2, TensorFlow Lite, Pytorch Lightning, HuggingFace).
+  - Deep Learning (PyTorch, Detectron2).
   - Machine Learning (Sklearn).
-  - Analytics (Matplotlib, Seaborn).
+  - Analytics (Matplotlib).
   - IOT (Arduino(C), Rasberry Pi(Python)).
-  - DataBases (Firebase, MongoDB, SQLLite, SQL).
+  - Data bases (Firebase, MongoDB, SQLLite, SQL).
   - Unit Tests (unitests)
   - Cloud Providers (Azure)
   - Data Collection (BeautifulSoup)
-  - 3D Modelling (Fusion 360, Blender)
-  - Programming Lanauges (Python, JavaScript, C/C++, Html, Css, C#, SQL)
+  - 3D Modelling (Fusion 360)
+  - Programming Languages (Python, Html, Css, C#, SQL)
   - Version Control (Git)
   
 
