@@ -2,13 +2,11 @@
 
 ![](https://komarev.com/ghpvc/?username=Programmer-RD-AI&color=gray)
 
-I am Ranuga Disansa and I love Programming and AI in general | Tech,Tesla,Apple Fanboy. | 92WPM
+I am Ranuga Disansa and I love Programming and AI, in general
 <br>
-Self Learning Programmer, Loves - AI. Started learning when I was 10 still learning... :)
+Self-Learning Programmer, Loves - AI. Started learning when I was 10 still learning... :)
 <br>
-I am Currently Learning
-<br>
-I mostly like Self-Driving Cars kind of stuff in AI mostly but I like other stuff also.
+I am Currently Learning Calculus, Algorithms and Data Structures and Web Application Development
 <hr>
 
 - Contact Me 💬
@@ -28,7 +26,7 @@ I mostly like Self-Driving Cars kind of stuff in AI mostly but I like other stuf
   - Machine Learning (Sklearn).
   - Analytics (Matplotlib).
   - IOT (Arduino(C), Rasberry Pi(Python)).
-  - Data bases (Firebase, MongoDB, SQLLite, SQL).
+  - Databases (Firebase, MongoDB, SQLLite, SQL).
   - Unit Tests (unitests)
   - Cloud Providers (Azure)
   - Data Collection (BeautifulSoup)
