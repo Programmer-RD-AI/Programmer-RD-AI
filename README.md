@@ -21,17 +21,16 @@ I am Currently Learning Calculus, Algorithms and Data Structures and Web Applica
 
 - My Skills 💼 
   - Web Dev (Flask, Bootstrap).
-  - API Dev (Flask Restful).
+  - API Dev (Flask Restful, FastAPI).
   - Deep Learning (PyTorch, Detectron2).
   - Machine Learning (Sklearn).
   - Analytics (Matplotlib).
   - IOT (Arduino(C), Rasberry Pi(Python)).
-  - Databases (Firebase, MongoDB, SQLLite, SQL).
+  - Databases (MongoDB, SQLLite, SQL).
   - Unit Tests (unitests)
   - Cloud Providers (Azure)
   - Data Collection (BeautifulSoup)
-  - 3D Modelling (Fusion 360)
-  - Programming Languages (Python, Html, Css, C#, SQL)
+  - Programming Languages (Python, Html, CSS, JS, SQL)
   - Version Control (Git)
   
 
