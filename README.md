@@ -35,8 +35,6 @@ I am Currently Learning Calculus, Algorithms and Data Structures and Web Applica
   
 
 <hr>
-<img alt="Ranuga's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Programmer-RD-AI&bg_color=0D1117&color=eca15b&line=eca15b" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-RD-AI" />
-<img src="https://github-readme-stats.vercel.app/api?username=Programmer-RD-AI&show_icons=true&hide_border=false" alt="Ranuga-Disansa's Github Stats">
-<img width="500" src="https://metrics.lecoq.io/Programmer-RD-AI" alt="Github Metrics">         
+<img src="https://github-readme-stats.vercel.app/api?username=Programmer-RD-AI&show_icons=true&hide_border=false" alt="Ranuga-Disansa's Github Stats">      
 <img width="500" src="http://github-readme-streak-stats.herokuapp.com?user=Programmer-RD-AI&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="Github Metrics">
