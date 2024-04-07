@@ -2,11 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=Programmer-RD-AI&color=gray)
 
-I am Ranuga Disansa and I love Programming and AI, in general
+I am Ranuga Disansa a creative and analytical software engineer student with a passion for technology and a desire to push the boundaries of what is possible. I am proficient in multiple programming languages and familiar with a wide range of software development tools. 
 <br>
-Self-Learning Programmer, Loves - AI. Started learning when I was 10 still learning... :)
-<br>
-I am Currently Learning Calculus, Algorithms and Data Structures and Web Application Development
+Currently Pursuing BSc (Hons) in Computer Science (Software Engineering) (Sri Lanka ESOFT) Top Up From Kingston University and Starting BSc (Hons) in Computer Science at Informatic Institue of Technology (IIT) From University of Westminister In September 2024.
 <hr>
 
 - Contact Me 💬
@@ -27,10 +25,10 @@ I am Currently Learning Calculus, Algorithms and Data Structures and Web Applica
   - Analytics (Matplotlib).
   - IOT (Arduino(C), Rasberry Pi(Python)).
   - Databases (MongoDB, SQLLite, SQL).
-  - Unit Tests (unitests)
+  - Unit Tests (unitest)
   - Cloud Providers (Azure)
   - Data Collection (BeautifulSoup)
-  - Programming Languages (Python, Html, CSS, JS, SQL)
+  - Programming Languages (Python, HTML, CSS, JS, SQL)
   - Version Control (Git)
   
 
