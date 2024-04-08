@@ -19,14 +19,14 @@ Currently Pursuing BSc (Hons) in Computer Science (Software Engineering) (Sri La
 
 - My Skills 💼 
   - Web Dev (Flask, Bootstrap).
-  - API Dev (Flask Restful, FastAPI).
+  - API Dev (Flask Restful, FastAPI, ExpressJS (NodeJS)).
   - Deep Learning (PyTorch, Detectron2).
   - Machine Learning (Sklearn).
   - Analytics (Matplotlib).
   - IOT (Arduino(C), Rasberry Pi(Python)).
   - Databases (MongoDB, SQLLite, SQL).
   - Unit Tests (unitest)
-  - Cloud Providers (Azure)
+  - Cloud Providers (Azure, Firebase)
   - Data Collection (BeautifulSoup)
   - Programming Languages (Python, HTML, CSS, JS, SQL)
   - Version Control (Git)
