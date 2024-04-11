@@ -28,7 +28,7 @@ Currently Pursuing BSc (Hons) in Computer Science (Software Engineering) (Sri La
   - Unit Tests (unitest)
   - Cloud Providers (Azure, Firebase)
   - Data Collection (BeautifulSoup)
-  - Programming Languages (Python, HTML, CSS, JS, SQL)
+  - Programming Languages (Python, HTML, CSS, JS, SQL (+Oracle))
   - Version Control (Git)
   
 
