@@ -26,10 +26,11 @@ Currently Pursuing BSc (Hons) in Computer Science (Software Engineering) (Sri La
   - IOT (Arduino(C), Rasberry Pi(Python)).
   - Databases (MongoDB, SQLLite, SQL).
   - Unit Tests (unitest)
-  - Cloud Providers (Azure, Firebase)
+  - Cloud Providers (Azure, Firebase, GCP)
   - Data Collection (BeautifulSoup)
   - Programming Languages (Python, HTML, CSS, JS, SQL (+Oracle))
   - Version Control (Git)
+  - Testing (Postman, Deepsource)
   
 
 <hr>
