@@ -29,7 +29,7 @@ Currently Pursuing BSc (Hons) in Computer Science (Software Engineering) (Sri La
   - Cloud Providers (Azure, Firebase, GCP)
   - Data Collection (BeautifulSoup)
   - Hosting (Render, Heroku, App Engine (GCP))
-  - Programming Languages (Python, HTML, CSS, JS, SQL (+Oracle))
+  - Programming Languages (Python, HTML, CSS, JS, TS, SQL (+Oracle))
   - Version Control (Git)
   - Testing (Postman, Deepsource)
   
