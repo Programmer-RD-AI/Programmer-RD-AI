@@ -1,6 +1,7 @@
 ## Hi there 👋 I am Ranuga Disansa 😃
 
 ![](https://komarev.com/ghpvc/?username=Programmer-RD-AI&color=gray)
+[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25577%26project%3D%26in=0)](https://codetime.dev)
 
 I am Ranuga Disansa a creative and analytical software engineer student with a passion for technology and a desire to push the boundaries of what is possible. I am proficient in multiple programming languages and familiar with a wide range of software development tools. 
 <br>
