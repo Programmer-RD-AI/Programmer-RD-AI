@@ -33,6 +33,7 @@ Currently Pursuing BSc (Hons) in Computer Science (Software Engineering) (Sri La
   - Programming Languages (Python, HTML, CSS, JS, TS, SQL (+Oracle))
   - Version Control (Git)
   - Testing (Postman, Deepsource)
+  - No Code (MindStudio)
   
 
 <hr>
