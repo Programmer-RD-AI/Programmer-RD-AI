@@ -14,7 +14,7 @@ I'm a creative and analytical software engineering student with a passion for te
 - [**Medium**](https://medium.com/@Programmer-RD-AI)
 
 ### My Skills 💼 
-- Web Dev (Flask, Bootstrap)
+- Web Dev (Flask, Bootstrap, ReactJS, Redux, React Router)
 - API Dev (Flask Restful, FastAPI, ExpressJS)
 - Deep Learning (PyTorch, Detectron2)
 - Machine Learning (Sklearn)
