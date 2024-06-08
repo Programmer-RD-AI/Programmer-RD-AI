@@ -25,7 +25,7 @@ I'm a creative and analytical software engineering student with a passion for te
 - Cloud Providers (Azure, Firebase, GCP)
 - Data Collection (BeautifulSoup)
 - Hosting (Render, Heroku, App Engine)
-- Programming Languages (Python, HTML, CSS, JS, TS, SQL)
+- Programming Languages (Python, HTML, CSS, JS, TS, SQL, LaTex)
 - Version Control (Git)
 - Testing (Postman, Deepsource)
 - No Code (MindStudio)
