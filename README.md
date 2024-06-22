@@ -37,11 +37,4 @@ I'm a creative and analytical software engineering student with a passion for te
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Programmer-RD-AI&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
 
-### About Me
-Hi, I'm Ranuga Disansa, a passionate software engineering student exploring the vast world of technology. I'm always eager to learn and contribute to meaningful projects that make a difference.
-
-- GitHub: [Programmer-RD-AI](https://github.com/Programmer-RD-AI)
-- Email: [go2ranuga@gmail.com](mailto:go2ranuga@gmail.com)
-- Medium: [Programmer-RD-AI](https://medium.com/@Programmer-RD-AI)
-
 Feel free to reach out if you're interested in collaborating or discussing exciting projects!
