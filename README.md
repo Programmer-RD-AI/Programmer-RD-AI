@@ -16,12 +16,12 @@ I'm a creative and analytical software engineering student with a passion for te
 ### My Skills 💼 
 - Web Dev (Flask, Bootstrap, ReactJS, Redux, React Router)
 - API Dev (Flask Restful, FastAPI, ExpressJS)
-- Deep Learning (PyTorch, Detectron2)
+- Deep Learning (PyTorch, Detectron2, TensorFlow (+Lite))
 - Machine Learning (Sklearn)
 - Analytics (Matplotlib)
 - IoT (Arduino, Raspberry Pi)
 - Databases (MongoDB, SQLite, SQL)
-- Unit Tests (unittest)
+- Unit Tests (unittest, cypress)
 - Cloud Providers (Azure, Firebase, GCP)
 - Data Collection (BeautifulSoup)
 - Hosting (Render, Heroku, App Engine)
@@ -29,6 +29,7 @@ I'm a creative and analytical software engineering student with a passion for te
 - Version Control (Git)
 - Testing (Postman, Deepsource)
 - No Code (MindStudio)
+- Networking (Sockets)
 
 ### GitHub Stats 📊
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-RD-AI)
