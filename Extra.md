@@ -1,17 +1,15 @@
-Hi 👋 My name is Programmer-RD-AI
-=================================
+# Hi 👋 My name is Programmer-RD-AI
 
-Self Learning Programmer
-------------------------
+## Self Learning Programmer
 
 Self Learning Programmer, Interested In - AI, IoT, and Mathematics. I am Ranuga Disansa and I love Programming and AI in general | Tech,Tesla,Apple Fanboy. Self Learning Programmer, Loves - AI. Started learning when I was 10 still learning... :) 89 WPM Speed I am Currently Learning Mathematics in Artificial Intelligence and Learning Reinforcement Learning I mostly like Self-Driving Cars kind of stuff in AI mostly but I like other stuff also.
 
-* 🌍  I'm based in Earth
-* 🖥️  See my portfolio at [PORTFOLIO](http://www.linkedin.com/in/ranuga-disansa-94a7671b2/)
-* ✉️  You can contact me at [go2ranuga@gmail.com](mailto:go2ranuga@gmail.com)
-* 🧠  I'm learning Reinforcement Learning
-* 🤝  I'm open to collaborating on Backend Projects / DataBase / AI Projects
-* ⚡  I am Not Fun
+- 🌍  I'm based in Earth
+- 🖥️  See my portfolio at [PORTFOLIO](http://www.linkedin.com/in/ranuga-disansa-94a7671b2/)
+- ✉️  You can contact me at [go2ranuga@gmail.com](mailto:go2ranuga@gmail.com)
+- 🧠  I'm learning Reinforcement Learning
+- 🤝  I'm open to collaborating on Backend Projects / DataBase / AI Projects
+- ⚡  I am Not Fun
 
 <a href="https://www.github.com/Programmer-RD-AI" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Programmer-RD-AI?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -38,7 +36,6 @@ src="https://img.shields.io/github/followers/Programmer-RD-AI?logo=github&style=
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-
 ### Socials
 
 <p align="left"> <a href="https://www.dev.to/programmerrdai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Programmer-RD-AI#2022" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Programmer-RD-AI" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://Programmer-RD-AI" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ranuga-disansa-94a7671b2/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@Programmer-RD-AI" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
@@ -58,3 +55,8 @@ src="https://img.shields.io/github/followers/Programmer-RD-AI?logo=github&style=
 <b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<center>
+<img src="https://github-profile-trophy.vercel.app/?username=Programmer-RD-AI&margin-w=5&margin-h=5&column=5" /><br/>
+
+</center>
+    <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=Programmer-RD-AI&theme=dark&layout=compact" alt="Ranuga's streak stats"/>
