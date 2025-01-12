@@ -44,7 +44,6 @@ Creative and analytical software engineering student with a passion for technolo
 
 ### Github Contributions 📊
 
-<hr>
 <p align="center">
   <div align="center">
     <img align="" src="https://github-readme-stats.vercel.app/api?username=Programmer-RD-AI&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Ranuga's streak stats"/>
