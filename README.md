@@ -26,25 +26,18 @@ Creative and analytical software engineering student with a passion for technolo
 <img align="left" alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-Profile-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </a>
 <br> <br>
+<br> <br>
 
 ### Technical Skills 🛠️
 
 - Languages & Core: Python, JavaScript/TypeScript, HTML/CSS, SQL, Java, Bash, LaTeX
-
 - Web & API: Flask (+RESTful), ReactJS (+Redux, Router), FastAPI, ExpressJS, Bootstrap
-
 - AI & Data: PyTorch, TensorFlow (+Lite), Sklearn, OpenAI, Qdrant, Matplotlib, BeautifulSoup, Pydantic, Detectron2
-
 - Infrastructure: Azure, GCP, Firebase, Docker, Git, Serverless, Microservices, Apache Kafka, Asyncio, uv
-
 - Databases: MongoDB • SQLite • SQL
-
 - Testing: unittest, cypress, Postman, Deepsource
-
 - IoT & Hardware: Arduino, Raspberry Pi, Networking (Sockets)
-
 - Deployment: Render, Heroku, App Engine
-
 - No-Code: MindStudio
 
 ### Github Contributions 📊
