@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Programmer-RD-AI&color=gray)
 [![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25577%26project%3D%26in=0)](https://codetime.dev)
 
-I'm a creative and analytical software engineering student with a passion for technology and a drive to push the boundaries of what's possible. Proficient in multiple programming languages and familiar with a wide range of software development tools.
+Creative and analytical software engineering student with a passion for technology and a proven track record in data science, machine learning, and software development. Skilled in multiple programming languages and familiar with various software development tools, exceling at leading projects, developing innovative solutions, and collaborating with teams to achieve goals. Experienced in contributing to open-source projects, volunteering in technical challenges, and fostering industry relations, Committed to advancing technology and making impactful contributions in both professional and volunteer roles.
 
 ### Contact Me 💬
   
