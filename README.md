@@ -4,6 +4,8 @@ Creative and analytical software engineering student with a passion for technolo
 
 ### Contact Me 💬
 
+<hr>
+
 <center>
 <a href="https://www.linkedin.com/in/programmer-rd-ai/">
 <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -32,6 +34,8 @@ Creative and analytical software engineering student with a passion for technolo
 
 ### Technical Skills 🛠️
 
+<hr>
+
 - Languages & Core: Python, JavaScript/TypeScript, HTML/CSS, SQL, Java, Bash, LaTeX
 - Web & API: Flask (+RESTful), ReactJS (+Redux, Router), FastAPI, ExpressJS, Bootstrap
 - AI & Data: PyTorch, TensorFlow (+Lite), Sklearn, OpenAI, Qdrant, Matplotlib, BeautifulSoup, Pydantic, Detectron2
@@ -44,6 +48,7 @@ Creative and analytical software engineering student with a passion for technolo
 
 ### Github Contributions 📊
 
+<hr>
 <p align="center">
   <div align="center">
     <img align="" src="https://github-readme-stats.vercel.app/api?username=Programmer-RD-AI&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Ranuga's streak stats"/>
