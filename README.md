@@ -4,8 +4,6 @@ Creative and analytical software engineering student with a passion for technolo
 
 ### Contact Me 💬
 
-<hr>
-
 <center>
 <a href="https://www.linkedin.com/in/programmer-rd-ai/">
 <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -33,8 +31,6 @@ Creative and analytical software engineering student with a passion for technolo
 <br>
 
 ### Technical Skills 🛠️
-
-<hr>
 
 - Languages & Core: Python, JavaScript/TypeScript, HTML/CSS, SQL, Java, Bash, LaTeX
 - Web & API: Flask (+RESTful), ReactJS (+Redux, Router), FastAPI, ExpressJS, Bootstrap
