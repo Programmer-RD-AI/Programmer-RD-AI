@@ -4,6 +4,7 @@ Creative and analytical software engineering student with a passion for technolo
 
 ### Contact Me 💬
 
+<center>
 <a href="https://www.linkedin.com/in/programmer-rd-ai/">
 <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -25,8 +26,9 @@ Creative and analytical software engineering student with a passion for technolo
 <a href="https://huggingface.co/Programmer-RD-AI">
 <img align="left" alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-Profile-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </a>
+</center>
 <br> <br>
-<br> <br>
+<br>
 
 ### Technical Skills 🛠️
 
