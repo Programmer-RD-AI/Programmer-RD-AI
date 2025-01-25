@@ -20,9 +20,6 @@ Creative and analytical software engineering student with a passion for technolo
 <a href="https://leetcode.com/u/Programmer-RD-AI/">
 <img align="left" alt="LeetCode" src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
-<a href="https://discuss.pytorch.org/u/programmer-rd-ai/summary">
-<img align="left" alt="PyTorch" src="https://img.shields.io/badge/PyTorch-Community-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-</a>
 <a href="https://huggingface.co/Programmer-RD-AI">
 <img align="left" alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-Profile-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </a>
