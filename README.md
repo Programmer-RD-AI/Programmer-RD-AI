@@ -26,6 +26,9 @@ Creative and analytical software engineering student with a passion for technolo
 <a href="https://huggingface.co/Programmer-RD-AI">
 <img align="left" alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-Profile-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </a>
+<a href="https://community.openai.com/u/programmerrdai/summary">
+<img align="left" alt="OpenAI" src="https://img.shields.io/badge/OpenAI-Profile-FFD21E?style=for-the-badge&logo=OpenAI&logoColor=black" />
+</a>
 </center>
 <br> <br>
 <br>
