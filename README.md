@@ -36,8 +36,8 @@ Creative and analytical software engineering undergraduate with a passion for te
 - Web & API: Flask (+RESTful), ReactJS (+Redux, Router), FastAPI, ExpressJS, Bootstrap
 - AI & Data: PyTorch, TensorFlow (+Lite), Sklearn, OpenAI, Qdrant, Matplotlib, BeautifulSoup, Pydantic, Detectron2
 - Infrastructure: Azure, GCP, Firebase, Docker, Git, Serverless, Microservices, Apache Kafka, Asyncio, uv
-- Databases: MongoDB • SQLite • SQL
-- Testing: unittest, cypress, Postman, Deepsource
+- Databases: MongoDB, SQLite, SQL
+- Testing: unittest, cypress, Postman, Deepsource, PyTest
 - IoT & Hardware: Arduino, Raspberry Pi, Networking (Sockets)
 - Deployment: Render, Heroku, App Engine
 - No-Code: MindStudio
