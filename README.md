@@ -34,7 +34,7 @@ Creative and analytical software engineering undergraduate with a passion for te
 
 - Languages & Core: Python, JavaScript/TypeScript, HTML/CSS, SQL, Java, Bash, LaTeX
 - Web & API: Flask (+RESTful), ReactJS (+Redux, Router), FastAPI, ExpressJS, Bootstrap
-- AI & Data: PyTorch, TensorFlow (+Lite), Sklearn, OpenAI, Qdrant, Matplotlib, BeautifulSoup, Pydantic, Detectron2
+- AI & Data: CrewAI, PyTorch, TensorFlow (+Lite), Sklearn, OpenAI, Qdrant, Matplotlib, BeautifulSoup, Pydantic, Detectron2, Langsmith
 - Infrastructure: Azure, GCP, Firebase, Docker, Git, Serverless, Microservices, Apache Kafka, Asyncio, uv
 - Databases: MongoDB, SQLite, SQL
 - Testing: unittest, cypress, Postman, Deepsource, PyTest
