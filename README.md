@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ranuga Disansa 😃 <img align="right" src="https://komarev.com/ghpvc/?username=Programmer-RD-AI" alt="Programmer-RD-AI" />
 
-Creative and analytical software engineering undergraduate with a passion for technology and a proven track record in data science, machine learning, and software development. Currently advancing my expertise through hands-on roles such as Trainee AI/ML Engineer and academic pursuits in computer science, I excel at leading collaborative projects—from designing AI-driven platforms to optimizing data workflows. Skilled in diverse programming paradigms and modern development tools, I thrive in solving complex problems and fostering innovation through open-source contributions and technical volunteer work. Recognized for achievements in competitive tech challenges and committed to lifelong learning, I aim to leverage my academic rigor and industry exposure to deliver impactful solutions in both professional and community-driven roles.
+Creative and analytical software engineering undergraduate with a passion for technology and a proven track record in data science, machine learning, and software development. Currently advancing my expertise through hands-on roles such as Trainee AI/ML Engineer and academic pursuits in computer science, I excel at leading collaborative projects—from designing AI-driven platforms to optimising data workflows. Skilled in diverse programming paradigms and modern development tools, I thrive in solving complex problems and fostering innovation through open-source contributions and technical volunteer work. Recognised for achievements in competitive tech challenges and committed to lifelong learning, I aim to leverage my academic rigour and industry exposure to deliver impactful solutions in both professional and community-driven roles.
 
 ### Contact Me 💬
 
@@ -34,11 +34,11 @@ Creative and analytical software engineering undergraduate with a passion for te
 
 - Languages & Core: Python, JavaScript/TypeScript, HTML/CSS, SQL, Java, Bash, LaTeX
 - Web & API: Flask (+RESTful), ReactJS (+Redux, Router), FastAPI, ExpressJS, Spring Boot
-- AI & Data: CrewAI, PyTorch, TensorFlow (+Lite), Sklearn, OpenAI, Qdrant, Matplotlib, BeautifulSoup, Pydantic, Detectron2, Langsmith, Amazon Bedrock (+Agents), Apache AirFlow
-- Infrastructure: Azure, GCP, Firebase, Docker, Git, Serverless, Microservices, Apache Kafka, Asyncio, uv, AWS
-- Databases: MongoDB, SQLite, SQL
+- AI & Data: Crewai, PyTorch, TensorFlow (+Lite), Sklearn, Openai, Qdrant, Matplotlib, BeautifulSoup, Pydantic, Detectron2, Langsmith, Amazon Bedrock (+Agents), Apache AirFlow
+- Infrastructure: Azure, GCP, Firebase, Docker, Git, Serverless, Microservices, Apache Kafka, AWS, Event Driven Architecture
+- Databases: Mongodb, SQLite, SQL
 - Testing: unittest, cypress, Postman, Deepsource, PyTest
-- IoT & Hardware: Arduino, Raspberry Pi, Networking (Sockets)
+- Iot & Hardware: Arduino, Raspberry Pi, Networking (Sockets)
 - Deployment: Render, Heroku, App Engine
 - No-Code: MindStudio
 
