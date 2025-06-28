@@ -34,8 +34,8 @@ Creative and analytical software engineering undergraduate with a passion for te
 
 - Languages & Core: Python, JavaScript/TypeScript, HTML/CSS, SQL, Java, Bash, LaTeX, Rust
 - Web & API: Flask (+RESTful), ReactJS (+Redux, Router), FastAPI, ExpressJS, Spring Boot
-- AI & Data: Crewai, PyTorch, TensorFlow (+Lite), Sklearn, Openai, Qdrant, Matplotlib, BeautifulSoup, Pydantic, Detectron2, Langsmith, Amazon Bedrock (+Agents), Apache AirFlow
-- Infrastructure: Azure, GCP, Firebase, Docker, Git, Serverless, Microservices, Apache Kafka, AWS, Event Driven Architecture
+- AI & Data: Crewai, PyTorch, TensorFlow (+Lite), Sklearn, Openai, Qdrant, Matplotlib, BeautifulSoup, Pydantic, Detectron2, Langsmith, Amazon Bedrock (+Agents), Apache AirFlow, Langgraph, Agno
+- Infrastructure: Azure, GCP, Firebase, Docker, Git, Serverless, Microservices, Apache Kafka, AWS, Event Driven Architecture, RabbitMQ
 - Databases: MongoDB, SQLite, SQL
 - Testing: unittest, cypress, Postman, Deepsource, PyTest
 - IoT & Hardware: Arduino, Raspberry Pi, Networking (Sockets)
