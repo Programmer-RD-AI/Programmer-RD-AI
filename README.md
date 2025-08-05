@@ -32,15 +32,15 @@ Creative and analytical software engineering undergraduate with a passion for te
 
 ### Technical Skills 🛠️
 
-- Languages & Core: Python, JavaScript/TypeScript, HTML/CSS, SQL, Java, Bash, LaTeX, Rust
-- Web & API: Flask (+RESTful), ReactJS (+Redux, Router), FastAPI, ExpressJS, Spring Boot
-- AI & Data: Crewai, PyTorch, TensorFlow (+Lite), Sklearn, Openai, Qdrant, Matplotlib, BeautifulSoup, Pydantic, Detectron2, Langsmith, Amazon Bedrock (+Agents), Apache AirFlow, Langgraph, Agno
-- Infrastructure: Azure, GCP, Firebase, Docker, Git, Serverless, Microservices, Apache Kafka, AWS, Event Driven Architecture, RabbitMQ
-- Databases: MongoDB, SQLite, SQL
-- Testing: unittest, cypress, Postman, Deepsource, PyTest
-- IoT & Hardware: Arduino, Raspberry Pi, Networking (Sockets)
-- Deployment: Render, Heroku, App Engine
-- No-Code: MindStudio
+**Languages & Core:** Python, JavaScript/TypeScript, HTML/CSS, SQL, Java, Bash, LaTeX, Rust, Go
+**Web & APIs:** React.js (Redux, Router), Next.js, Express.js, Flask (RESTful), FastAPI, Spring Boot
+**AI & Data:** PyTorch, TensorFlow (+Lite), scikit-learn, Detectron2, CrewAI, Amazon Bedrock (+Agents), LangGraph, Agno, RAG pipelines, Apache Airflow
+**Infra & DevOps:** AWS, Azure, GCP, Firebase, Docker, Serverless, Microservices, RabbitMQ, Kafka, SQS, Observability
+**Databases:** SQL, SQLite, MongoDB, DynamoDB
+**Testing & QA:** pytest, unittest, Cypress, Postman, DeepSource
+**IoT & Hardware:** Arduino, Raspberry Pi, socket-level networking
+**Deployment & Hosting:** Render, Heroku, Google App Engine
+**No-Code:** MindStudio
 
 ### Github Contributions 📊
 
@@ -50,7 +50,3 @@ Creative and analytical software engineering undergraduate with a passion for te
     <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-RD-AI&layout=compact&theme=dark&hide_border=true" alt="Ranuga's top langs"/>
   </div>
 </p>
-
-## Let's Create Something Amazing! 💡
-
-I'm always excited to collaborate on innovative projects and connect with fellow developers. Whether you're interested in AI, web development, or any tech-related discussion, feel free to reach out!
