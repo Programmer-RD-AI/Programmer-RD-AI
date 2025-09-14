@@ -32,15 +32,12 @@ Creative and analytical software engineering undergraduate with a passion for te
 
 ### Technical Skills 🛠️
 
-- **Languages & Core:** Python, JavaScript/TypeScript, HTML/CSS, SQL, Java, Bash, LaTeX, Rust, Go
-- **Web & APIs:** React.js (Redux, Router), Next.js, Express.js, Flask (RESTful), FastAPI, Spring Boot
-- **AI & Data:** PyTorch, TensorFlow (+Lite), scikit-learn, Detectron2, CrewAI, Amazon Bedrock (+Agents), LangGraph, Agno, RAG pipelines, Apache Airflow
-- **Infra & DevOps:** AWS, Azure, GCP, Firebase, Docker, Serverless, Microservices, RabbitMQ, Kafka, SQS, Observability
-- **Databases:** SQL, SQLite, MongoDB, DynamoDB
-- **Testing & QA:** pytest, unittest, Cypress, Postman, DeepSource
-- **IoT & Hardware:** Arduino, Raspberry Pi, socket-level networking
-- **Deployment & Hosting:** Render, Heroku, Google App Engine
-- **No-Code:** MindStudio
+- **Languages & Core:** Python · JavaScript/TypeScript · Rust · Go · Java · Bash
+- **Web & APIs:** Next.js · React (Redux) · FastAPI · Flask · Express.js · Spring Boot · Axum
+- **AI & Data:** PyTorch · TensorFlow (Lite) · scikit-learn · Detectron2 · RAG pipelines · Apache Airflow · CrewAI · LangGraph · Agno · Amazon Bedrock (+Agents/Guardrails)
+- **Infra & DevOps:** AWS · GCP · Cloudflare · Docker · Serverless · Microservices · RabbitMQ · Kafka · SQS · Observability/Monitoring
+- **Testing & QA:** pytest · unittest · Playwright · Cypress · Postman
+- **Other Domains:** IoT (Arduino, Raspberry Pi) · socket-level networking · LaTeX
 
 ### Github Contributions 📊
 
