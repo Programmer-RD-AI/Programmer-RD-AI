@@ -1,7 +1,5 @@
 ## Hi there, I'm Ranuga <img align="right" src="https://komarev.com/ghpvc/?username=Programmer-RD-AI" alt="Programmer-RD-AI" />
 
-My work speaks for itself.
-
 ### Contact
 <p align="center">
 <a href="https://www.linkedin.com/in/programmer-rd-ai/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&height=20" /></a>
