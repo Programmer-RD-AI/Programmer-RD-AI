@@ -1,8 +1,6 @@
-## Hi there 👋 I'm Ranuga Disansa 😃 <img align="right" src="https://komarev.com/ghpvc/?username=Programmer-RD-AI" alt="Programmer-RD-AI" />
+## Hi there, I'm Ranuga <img align="right" src="https://komarev.com/ghpvc/?username=Programmer-RD-AI" alt="Programmer-RD-AI" />
 
-Creative and analytical software engineering undergraduate with a passion for technology and a proven track record in data science, machine learning, and software development. Currently advancing my expertise through hands-on roles such as Trainee AI/ML Engineer and academic pursuits in computer science, I excel at leading collaborative projects—from designing AI-driven platforms to optimising data workflows. Skilled in diverse programming paradigms and modern development tools, I thrive in solving complex problems and fostering innovation through open-source contributions and technical volunteer work. Recognised for achievements in competitive tech challenges and committed to lifelong learning, I aim to leverage my academic rigour and industry exposure to deliver impactful solutions in both professional and community-driven roles.
-
-### Contact Me 💬
+### Contact Me
 
 <center>
 <a href="https://www.linkedin.com/in/programmer-rd-ai/">
@@ -10,9 +8,6 @@ Creative and analytical software engineering undergraduate with a passion for te
 </a>
 <a href="https://www.kaggle.com/programmerrdai">
 <img align="left" alt="Kaggle" src="https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-</a>
-<a href="https://medium.com/@Programmer-RD-AI">
-<img align="left" alt="Medium" src="https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 <a href="mailto:go2ranuga@gmail.com">
 <img align="left" alt="Email" src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -23,23 +18,11 @@ Creative and analytical software engineering undergraduate with a passion for te
 <a href="https://huggingface.co/Programmer-RD-AI">
 <img align="left" alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-Profile-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </a>
-<a href="https://community.openai.com/u/programmerrdai/summary">
-<img align="left" alt="OpenAI" src="https://img.shields.io/badge/OpenAI-Profile-FFD21E?style=for-the-badge&logo=OpenAI&logoColor=black" />
-</a>
 </center>
 <br> <br>
 <br>
 
-### Technical Skills 🛠️
-
-- **Languages & Core:** Python · JavaScript/TypeScript · Rust · Go · Java · Bash
-- **Web & APIs:** Next.js · React (Redux) · FastAPI · Flask · Express.js · Spring Boot · Axum
-- **AI & Data:** PyTorch · TensorFlow (Lite) · scikit-learn · Detectron2 · RAG pipelines · Apache Airflow · CrewAI · LangGraph · Agno · Amazon Bedrock (+Agents/Guardrails)
-- **Infra & DevOps:** AWS · GCP · Cloudflare · Docker · Serverless · Microservices · RabbitMQ · Kafka · SQS · Observability/Monitoring
-- **Testing & QA:** pytest · unittest · Playwright · Cypress · Postman
-- **Other Domains:** IoT (Arduino, Raspberry Pi) · socket-level networking · LaTeX
-
-### Github Contributions 📊
+### Github Contributions
 
 <p align="center">
   <div align="center">
