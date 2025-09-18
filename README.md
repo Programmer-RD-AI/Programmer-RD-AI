@@ -8,7 +8,7 @@
 <a href="https://huggingface.co/Programmer-RD-AI"><img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black&height=20" /></a>
 </p>
 
-### Github Contributions
+### Contributions
 
 <p align="center">
   <div align="center">
