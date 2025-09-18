@@ -1,26 +1,14 @@
 ## Hi there, I'm Ranuga <img align="right" src="https://komarev.com/ghpvc/?username=Programmer-RD-AI" alt="Programmer-RD-AI" />
 
-### Contact Me
+My work speaks for itself.
 
-<center>
-<a href="https://www.linkedin.com/in/programmer-rd-ai/">
-<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.kaggle.com/programmerrdai">
-<img align="left" alt="Kaggle" src="https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-</a>
-<a href="mailto:go2ranuga@gmail.com">
-<img align="left" alt="Email" src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://leetcode.com/u/Programmer-RD-AI/">
-<img align="left" alt="LeetCode" src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-<a href="https://huggingface.co/Programmer-RD-AI">
-<img align="left" alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-Profile-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-</a>
-</center>
-<br> <br>
-<br>
+### Contact
+<p align="center">
+<a href="https://www.linkedin.com/in/programmer-rd-ai/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&height=20" /></a>
+<a href="https://www.kaggle.com/programmerrdai"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white&height=20" /></a>
+<a href="mailto:go2ranuga@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white&height=20" /></a>
+<a href="https://huggingface.co/Programmer-RD-AI"><img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black&height=20" /></a>
+</p>
 
 ### Github Contributions
 
